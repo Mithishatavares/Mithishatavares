@@ -1,5 +1,3 @@
-package sll;
-
 import java.util.Scanner;
 
 public class queue 
