@@ -7,7 +7,7 @@ I'm Mithisha Tavares, currently pursuing my Bachelor of Technology in Computer S
 ## About Me 📖
 
 - 🔭 I’m currently delving into Deep Learning Projects.
-- 📫 Reach me at LinkedIn  (https://www.linkedin.com/in/mithisha-tavares-9943291aa/).
+- 📫 Reach me at LinkedIn  (https://www.linkedin.com/in/mithisha-tavares-9943291aa/)
 
 ## My Journey 🚀
 
