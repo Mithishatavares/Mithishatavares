@@ -2,7 +2,8 @@
 <img  src ="https://github-readme-stats.vercel.app/api?username=Mithishatavares&show_icons=true&theme=radical"/>
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithishatavares&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 <img align ="left" alt="Python"src ="https://img.shields.io/badge/python-36454f?style=for-the-badge&logo=python&logoColor=white"/>
-<img align ="left" alt="Pandas"src ="https://img.shields.io/badge/pandas-36454f?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img align ="left" alt="C "src ="https://img.shields.io/badge/pandas-36454f?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img align ="left" alt="Java"src ="https://img.shields.io/badge/java-36454f?style=for-the-badge&logo=java&logoColor=white"/>
+<img align ="left" alt="SQL"src ="https://img.shields.io/badge/python-36454f?style=for-the-badge&logo=python&logoColor=white"/>
 <img align ="left" alt="Html 5"src ="https://img.shields.io/badge/html5-36454f?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align ="left" alt="Ruby"src ="https://img.shields.io/badge/ruby-36454f?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img align ="left" alt="CSS"src ="https://img.shields.io/badge/ruby-36454f?style=for-the-badge&logo=ruby&logoColor=white"/>
