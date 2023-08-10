@@ -1,8 +1,18 @@
-## Hi there, I am Mithisha! 👋
+# Welcome to My GitHub Profile! 👋
 
-<img align ="left" alt="Python"src ="https://img.shields.io/badge/python-36454f?style=for-the-badge&logo=python&logoColor=white"/>
-<img align ="left" alt="C "src ="https://img.shields.io/badge/pandas-36454f?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img align ="left" alt="Java"src ="https://img.shields.io/badge/java-36454f?style=for-the-badge&logo=java&logoColor=white"/>
-<img align ="left" alt="SQL"src ="https://img.shields.io/badge/python-36454f?style=for-the-badge&logo=python&logoColor=white"/>
-<img align ="left" alt="Html 5"src ="https://img.shields.io/badge/html5-36454f?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align ="left" alt="CSS"src ="https://img.shields.io/badge/ruby-36454f?style=for-the-badge&logo=ruby&logoColor=white"/>
+## Hey there! 
+
+I'm Mithisha Tavares, currently pursuing my Bachelor of Technology in Computer Science with a focus on Artificial Intelligence at VIT Amaravati. I'm thrilled to blend my theoretical knowledge with hands-on experience in the tech world.
+
+## About Me 📖
+
+- 🔭 I’m currently delving into Deep Learning Projects.
+- 📫 Reach me at LinkedIn(https://www.linkedin.com/in/mithisha-tavares-9943291aa/).
+
+## My Journey 🚀
+
+In the realm of academics, I hold a solid CGPA of 8.57, a testament to my dedication.
+Beyond the classroom, I've led as the Sports Captain and honed communication skills as the Communication Lead at Oasis Club.
+
+I'm excited about collaboration and eager to contribute to innovative projects. Reach out if you have ideas, questions, or just want to connect. Let's create something amazing together!
+
