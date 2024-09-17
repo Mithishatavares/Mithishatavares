@@ -2,7 +2,7 @@
 
 ## Hey there! 
 
-I'm Mithisha Tavares, currently pursuing my MS in Business Analytics at the University of Cincinnati. I'm thrilled to blend my theoretical knowledge in Computer Science, Analytics and Ai with hands-on experience in the tech world.
+I'm Mithisha Brilent Tavares, currently pursuing my MS in Business Analytics at the University of Cincinnati. I'm thrilled to blend my theoretical knowledge in Computer Science, Analytics and Ai with hands-on experience in the tech world.
 
 ## About Me 📖
 
